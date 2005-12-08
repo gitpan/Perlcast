@@ -1,0 +1,25 @@
+Changes
+Credits
+MANIFEST
+META.yml # Will be created by "make dist"
+Makefile.PL
+README
+lib/Perlcast.pm
+t/00-load.t
+t/pod-coverage.t
+t/pod.t
+lib/Perlcast/Interviews/001.pm
+lib/Perlcast/Interviews/002.pm
+lib/Perlcast/Interviews/003.pm
+lib/Perlcast/Interviews/004.pm
+lib/Perlcast/Interviews/005.pm
+lib/Perlcast/Interviews/006.pm
+lib/Perlcast/Interviews/007.pm
+lib/Perlcast/Interviews/008.pm
+lib/Perlcast/Interviews/009.pm
+lib/Perlcast/Interviews/010.pm
+lib/Perlcast/Interviews/011.pm
+lib/Perlcast/Interviews/012.pm
+lib/Perlcast/Interviews/013.pm
+lib/Perlcast/Interviews/014.pm
+
