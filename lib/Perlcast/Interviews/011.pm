@@ -44,3 +44,7 @@ com).
 You can redistribute and/or modify this document under the same terms as the
 audio itself.
 
+=cut
+
+1;
+

@@ -9,11 +9,11 @@ Perlcast - Transcriptions of Perlcast
 
 =head1 VERSION
 
-Version 20051208 
+Version 20051209 
 
 =cut
 
-our $VERSION = '20051208';
+our $VERSION = '20051209';
 
 =head1 SYNOPSIS
 
