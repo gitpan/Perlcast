@@ -1,19 +1,14 @@
-package Perlcast::Interviews::009;
+package Perlcast::Interviews::016;
 
 =head1 NAME
 
-Perlcast Interview 009 - Interview with Jesse Vincent
+Perlcast Interview 016 - Interview with Peter Wainwright
 
 
 =head1 ABSTRACT
 
-Well, I had to delay the release of my interview with Andy Lester for a few 
-days, so I’m a little late getting out a replacement interview. But, better 
-late then never. For this interview I speak with Jesse Vincent of Best 
-Practical about his ticketing system, RT, and his new book, “RT Essentials”.
-
 The audio of this interview can be found at 
-L<Perlcast.com|http://www.perlcast.com/audio/Perlcast_Interview_009_Vincent.mp3>.
+L<Perlcast.com|http://www.perlcast.com/audio/Perlcast_Interview_016_Stajich.mp3>.
 
 =head1 PRELUDE
 

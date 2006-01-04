@@ -1,3 +1,5 @@
+package Perlcast::Interviews::006;
+
 =head1 NAME
 
 Perlcast Interview 006 - Interview with Casey West

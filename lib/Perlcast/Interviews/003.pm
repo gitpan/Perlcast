@@ -1,3 +1,5 @@
+package Perlcast::Interviews::003;
+
 =head1 NAME
 
 Perlcast Interview 003 - Interview with Damian Conway

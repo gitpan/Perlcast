@@ -1,3 +1,5 @@
+package Perlcast::Interviews::005;
+
 =head1 NAME
 
 Perlcast Interview 005 - Interview with Chris Brooks

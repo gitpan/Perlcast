@@ -1,3 +1,5 @@
+package Perlcast::Interviews::012;
+
 =head1 NAME
 
 Perlcast Interview 012 - Interview with Chris Frenz

@@ -1,3 +1,5 @@
+package Perlcast::Interviews::008;
+
 =head1 NAME
 
 Perlcast Interview 008 - Interview with Shane Caraveo

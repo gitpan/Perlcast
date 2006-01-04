@@ -1,3 +1,5 @@
+package Perlcast::Interviews::002;
+
 =head1 NAME
 
 Perlcast Interview 002 - Interview with Ian Langworth and chromatic

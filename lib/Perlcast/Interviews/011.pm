@@ -1,3 +1,5 @@
+package Perlcast::Interviews::011;
+
 =head1 NAME
 
 Perlcast Interview 011 - Interview with Andy Lester

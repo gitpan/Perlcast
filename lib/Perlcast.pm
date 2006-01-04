@@ -13,7 +13,7 @@ Version 20051209
 
 =cut
 
-our $VERSION = '20051209';
+our $VERSION = '20060103';
 
 =head1 SYNOPSIS
 
@@ -51,6 +51,10 @@ Perlcast episodes and interviews.
 =item L<Perlcast::Interviews::013> - Randal Schwartz on Perl
 
 =item L<Perlcast::Interviews::014> - Richard Foley on I<Pro Perl Debugging>
+
+=item L<Perlcast::Interviews::015> - Peter Wainwright on I<Pro Perl>
+
+=item L<Perlcast::Interviews::016> - Jason Stajich on BioPerl 
 
 =back
 

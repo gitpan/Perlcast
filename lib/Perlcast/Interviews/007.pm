@@ -1,3 +1,5 @@
+package Perlcast::Interviews::007;
+
 =head1 NAME
 
 Perlcast Interview 007 - Interview with Adam Kennedy

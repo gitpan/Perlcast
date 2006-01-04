@@ -1,3 +1,5 @@
+package Perlcast::Interviews::004;
+
 =head1 NAME
 
 Perlcast Interview 004 - Interview with Peter Scott

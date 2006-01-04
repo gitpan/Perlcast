@@ -1,3 +1,5 @@
+package Perlcast::Interviews::001;
+
 =head1 NAME
 
 Perlcast Interview 001 - Interview with brian d foy 

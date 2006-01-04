@@ -1,3 +1,5 @@
+package Perlcast::Interviews::010;
+
 =head1 NAME
 
 Perlcast Interview 010 - Interview with Larry Wall
