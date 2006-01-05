@@ -1,18 +1,16 @@
-package Perlcast::Interviews::002;
-
 =head1 NAME
 
-Perlcast Interview 002 - Interview with Ian Langworth and chromatic
-
+Perlcast Interview 013 - Interview with Randal Schwartz
 
 =head1 ABSTRACT
 
-Just barely in time for OSCON, Perlcast is finally releasing the audio for 
-an interview done just over a month ago with Ian Langworth and chromatic about 
-their new book I<Perl Testing: A Developer’s Notebook>.
+On October 26th 2006 I had a chance to interview Randal Schwartz, a key 
+figure in the Perl community and author of countless books, articles, and 
+web pages about Perl. In the interview, we talk about Randal’s books, 
+business, and a few Perl’isms that can be attributed to him.
 
 The audio of this interview can be found at 
-L<Perlcast.com|http://www.perlcast.com/audio/Perlcast_Interview_002_perl_testing.mp3>.
+L<Perlcast.com|http://www.perlcast.com/audio/Perlcast_Interview_013_Schwartz.mp3>.
 
 =head1 PRELUDE
 
@@ -44,7 +42,7 @@ com).
 You can redistribute and/or modify this document under the same terms as the
 audio itself.
 
-=cut
-
-1;
+L<Contents|Perlcast::Interviews>
+L<Previous|Perlcast::Interviews::012>
+L<Next|Perlcast::Interviews::014>
 

@@ -1,19 +1,17 @@
-package Perlcast::Interviews::009;
-
 =head1 NAME
 
-Perlcast Interview 009 - Interview with Jesse Vincent
-
+Perlcast Interview 011 - Interview with Andy Lester
 
 =head1 ABSTRACT
 
-Well, I had to delay the release of my interview with Andy Lester for a few 
-days, so I’m a little late getting out a replacement interview. But, better 
-late then never. For this interview I speak with Jesse Vincent of Best 
-Practical about his ticketing system, RT, and his new book, “RT Essentials”.
+Perlcast, the Perl podcast, back with an interview with Andy Lester. Andy is 
+the new public relations representative for the Perl Foundation, a 2005 White 
+Camel winner, creator of WWW::Mechanize, and an advocate for Perl Quality 
+Assurance. Listen in for Andy’s take on Perl and a little side note on 
+Google’s Summer of Code.
 
 The audio of this interview can be found at 
-L<Perlcast.com|http://www.perlcast.com/audio/Perlcast_Interview_009_Vincent.mp3>.
+L<Perlcast.com|http://www.perlcast.com/audio/Perlcast_Interview_011_Lester.mp3>.
 
 =head1 PRELUDE
 
@@ -45,7 +43,7 @@ com).
 You can redistribute and/or modify this document under the same terms as the
 audio itself.
 
-=cut
-
-1;
+L<Contents|Perlcast::Interviews>
+L<Previous|Perlcast::Interviews::010>
+L<Next|Perlcast::Interviews::012>
 

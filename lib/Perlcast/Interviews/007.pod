@@ -1,9 +1,6 @@
-package Perlcast::Interviews::007;
-
 =head1 NAME
 
 Perlcast Interview 007 - Interview with Adam Kennedy
-
 
 =head1 ABSTRACT
 
@@ -44,7 +41,7 @@ com).
 You can redistribute and/or modify this document under the same terms as the
 audio itself.
 
-=cut
-
-1;
+L<Contents|Perlcast::Interviews>
+L<Previous|Perlcast::Interviews::006>
+L<Next|Perlcast::Interviews::008>
 

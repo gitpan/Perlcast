@@ -1,20 +1,15 @@
-package Perlcast::Interviews::011;
-
 =head1 NAME
 
-Perlcast Interview 011 - Interview with Andy Lester
-
+Perlcast Interview 006 - Interview with Casey West
 
 =head1 ABSTRACT
 
-Perlcast, the Perl podcast, back with an interview with Andy Lester. Andy is 
-the new public relations representative for the Perl Foundation, a 2005 White 
-Camel winner, creator of WWW::Mechanize, and an advocate for Perl Quality 
-Assurance. Listen in for Andy’s take on Perl and a little side note on 
-Google’s Summer of Code.
+Recently I had the opportunity to sit down with Casey West  and speak with 
+him about JSAN, the JavaScript Archive Network. In the interview, Casey 
+tells us why he started JSAN and how you can help out.
 
 The audio of this interview can be found at 
-L<Perlcast.com|http://www.perlcast.com/audio/Perlcast_Interview_011_Lester.mp3>.
+L<Perlcast.com|http://www.perlcast.com/audio/Perlcast_Interview_006_jsan.mp3>.
 
 =head1 PRELUDE
 
@@ -46,7 +41,7 @@ com).
 You can redistribute and/or modify this document under the same terms as the
 audio itself.
 
-=cut
-
-1;
+L<Contents|Perlcast::Interviews>
+L<Previous|Perlcast::Interviews::005>
+L<Next|Perlcast::Interviews::007>
 

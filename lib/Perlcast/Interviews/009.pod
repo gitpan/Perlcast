@@ -1,19 +1,16 @@
-package Perlcast::Interviews::001;
-
 =head1 NAME
 
-Perlcast Interview 001 - Interview with brian d foy 
-
+Perlcast Interview 009 - Interview with Jesse Vincent
 
 =head1 ABSTRACT
 
-It has been long promised, but has finally arrived. Yes, the first stand-alone 
-interview from Perlcast. This interview is with brian d foy. brian is the 
-publisher of The Perl Review, partner in Stonehenge Consulting, and co-author 
-of the latest version of Learning Perl Fourth Edition.
+Well, I had to delay the release of my interview with Andy Lester for a few 
+days, so I’m a little late getting out a replacement interview. But, better 
+late then never. For this interview I speak with Jesse Vincent of Best 
+Practical about his ticketing system, RT, and his new book, “RT Essentials”.
 
 The audio of this interview can be found at 
-L<Perlcast.com|http://www.perlcast.com/audio/Perlcast_Interview_001_brian_foy.mp3>.
+L<Perlcast.com|http://www.perlcast.com/audio/Perlcast_Interview_009_Vincent.mp3>.
 
 =head1 PRELUDE
 
@@ -45,7 +42,7 @@ com).
 You can redistribute and/or modify this document under the same terms as the
 audio itself.
 
-=cut
-
-1;
+L<Contents|Perlcast::Interviews>
+L<Previous|Perlcast::Interviews::008>
+L<Next|Perlcast::Interviews::010>
 

@@ -1,7 +1,7 @@
 # http://module-build.sourceforge.net/META-spec.html
 #XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
 name:         Perlcast
-version:      20060103
+version:      20060104
 version_from: lib/Perlcast.pm
 installdirs:  site
 requires:

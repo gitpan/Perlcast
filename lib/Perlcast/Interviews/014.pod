@@ -1,9 +1,6 @@
-package Perlcast::Interviews::014;
-
 =head1 NAME
 
 Perlcast Interview 014 - Interview with Richard Foley
-
 
 =head1 ABSTRACT
 
@@ -40,7 +37,7 @@ com).
 You can redistribute and/or modify this document under the same terms as the
 audio itself.
 
-=cut
-
-1;
+L<Contents|Perlcast::Interviews>
+L<Previous|Perlcast::Interviews::013>
+L<Next|Perlcast::Interviews::015>
 

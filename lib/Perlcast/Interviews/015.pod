@@ -1,18 +1,11 @@
-package Perlcast::Interviews::003;
-
 =head1 NAME
 
-Perlcast Interview 003 - Interview with Damian Conway
-
+Perlcast Interview 015 - Interview with Peter Wainwright
 
 =head1 ABSTRACT
 
-Yesterday I had the opportunity to sit down with Damian Conway and record an
-interview about his involvement with Perl and about his new book 
-I<Perl Best Practices>.
-
 The audio of this interview can be found at 
-L<Perlcast.com|http://www.perlcast.com/audio/Perlcast_Interview_003_Damian_Conway.mp3>.
+L<Perlcast.com|http://www.perlcast.com/audio/Perlcast_Interview_015_Wainwright.mp3>.
 
 =head1 PRELUDE
 
@@ -44,7 +37,7 @@ com).
 You can redistribute and/or modify this document under the same terms as the
 audio itself.
 
-=cut
-
-1;
+L<Contents|Perlcast::Interviews>
+L<Previous|Perlcast::Interviews::014>
+L<Next|Perlcast::Interviews::016>
 
